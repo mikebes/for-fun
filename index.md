@@ -1,5 +1,5 @@
 ---
-title: Why do I have two titles?
+title: Snippets from my embedded and simulation projects
 ---
-What happens to this stuff?
+Work in progress. I'm in the process of aggregating my posts spread across several platforms here.
 
